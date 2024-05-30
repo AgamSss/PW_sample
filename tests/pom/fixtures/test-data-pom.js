@@ -1,0 +1,1 @@
+export const HEADER_LINKS_TEXT_VALUE = [ 'Home', 'About', 'Contacts', 'Guest log in']
